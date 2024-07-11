@@ -1,0 +1,232 @@
+2024-07-10T23:25:04.096Z info: Parsed XML for Delivery Details:
+2024-07-10T23:25:05.589Z info: Parsed XML for GetSearch:
+2024-07-10T23:25:05.590Z info: Parts List:
+2024-07-10T23:25:05.591Z info: Products:
+2024-07-10T23:25:06.119Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:32:05.095Z info: Received query:  LD13110C, productCount: 1
+2024-07-10T23:32:05.216Z info: Parsed XML for Delivery Details:
+2024-07-10T23:32:06.089Z info: Parsed XML for GetSearch:
+2024-07-10T23:32:06.090Z info: Parts List:
+2024-07-10T23:32:06.090Z info: Products:
+2024-07-10T23:32:06.386Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:33:44.411Z info: Received query:  LD13402-10, productCount: 1
+2024-07-10T23:33:44.412Z info: Received query:  LD13402-10, productCount: 1
+2024-07-10T23:33:44.527Z info: Parsed XML for Delivery Details:
+2024-07-10T23:33:45.249Z info: Parsed XML for GetSearch:
+2024-07-10T23:33:45.250Z info: Parts List:
+2024-07-10T23:33:45.251Z info: Products:
+2024-07-10T23:33:45.431Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:43:50.471Z info: Received query:  LD13905-10, productCount: 1
+2024-07-10T23:43:50.590Z info: Parsed XML for Delivery Details:
+2024-07-10T23:43:52.145Z info: Parsed XML for GetSearch:
+2024-07-10T23:43:52.146Z info: Parts List:
+2024-07-10T23:43:52.146Z info: Products:
+2024-07-10T23:43:52.393Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:45:45.998Z info: Received query:  LD13905-10, productCount: 1
+2024-07-10T23:45:46.119Z info: Parsed XML for Delivery Details:
+2024-07-10T23:45:47.044Z info: Parsed XML for GetSearch:
+2024-07-10T23:45:47.045Z info: Parts List:
+2024-07-10T23:45:47.046Z info: Products:
+2024-07-10T23:45:47.272Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:52:59.826Z info: Received query:  LD13905-10, productCount: 1
+2024-07-10T23:52:59.950Z info: Parsed XML for Delivery Details:
+2024-07-10T23:53:01.263Z info: Parsed XML for GetSearch:
+2024-07-10T23:53:01.265Z info: Parts List:
+2024-07-10T23:53:01.266Z info: Products:
+2024-07-10T23:53:01.490Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:53:14.113Z info: Received query:  LD13905-10, productCount: 1
+2024-07-10T23:53:14.209Z info: Parsed XML for Delivery Details:
+2024-07-10T23:53:15.395Z info: Parsed XML for GetSearch:
+2024-07-10T23:53:15.397Z info: Parts List:
+2024-07-10T23:53:15.397Z info: Products:
+2024-07-10T23:53:15.555Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:56:25.890Z info: Received query:  LD13905-10, productCount: 1
+2024-07-10T23:56:26.012Z info: Parsed XML for Delivery Details:
+2024-07-10T23:56:27.105Z info: Parsed XML for GetSearch:
+2024-07-10T23:56:27.106Z info: Parts List:
+2024-07-10T23:56:27.106Z info: Products:
+2024-07-10T23:56:27.354Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:56:27.354Z error: Ошибка при создании продуктов:
+2024-07-10T23:57:25.880Z info: Received query:  26261-8998D, productCount: 1
+2024-07-10T23:57:25.978Z info: Parsed XML for Delivery Details:
+2024-07-10T23:57:26.383Z info: Parsed XML for GetSearch:
+2024-07-10T23:57:26.383Z info: Parts List:
+2024-07-10T23:57:26.384Z info: Products:
+2024-07-10T23:57:26.654Z info: Продукты успешно созданы в Ozon:
+2024-07-10T23:57:26.654Z error: Ошибка при создании продуктов:
+2024-07-11T00:03:07.389Z error: Ошибка чтения файла продуктов:
+2024-07-11T00:03:07.395Z error: Ошибка чтения файла продуктов:
+2024-07-11T00:03:09.864Z info: Received query:  LD13905-10, productCount: 1
+2024-07-11T00:03:09.991Z info: Parsed XML for Delivery Details:
+2024-07-11T00:03:11.238Z info: Parsed XML for GetSearch:
+2024-07-11T00:03:11.240Z info: Parts List:
+2024-07-11T00:03:11.240Z info: Products:
+2024-07-11T00:03:11.471Z info: Продукты успешно созданы в Ozon:
+2024-07-11T00:03:11.471Z error: Ошибка чтения файла продуктов:
+2024-07-11T00:32:13.506Z info: Received query:  12276C1, productCount: 1
+2024-07-11T00:32:13.735Z info: Parsed XML for Delivery Details:
+2024-07-11T00:32:14.398Z info: Parsed XML for GetSearch:
+2024-07-11T00:32:14.398Z info: Parts List:
+2024-07-11T00:32:14.398Z info: Products:
+2024-07-11T00:32:14.628Z info: Продукты успешно созданы в Ozon:
+2024-07-11T00:38:04.613Z info: Received query:  LD13905-10, productCount: 1
+2024-07-11T00:38:04.732Z info: Parsed XML for Delivery Details:
+2024-07-11T00:38:06.004Z info: Parsed XML for GetSearch:
+2024-07-11T00:38:06.004Z info: Parts List:
+2024-07-11T00:38:06.005Z info: Products:
+2024-07-11T00:38:06.269Z info: Продукты успешно созданы в Ozon:
+2024-07-11T01:10:47.265Z info: Received query:  LD13905-10, productCount: 1
+2024-07-11T01:10:47.387Z info: Parsed XML for Delivery Details:
+2024-07-11T01:10:48.586Z info: Parsed XML for GetSearch:
+2024-07-11T01:10:48.587Z info: Parts List:
+2024-07-11T01:10:48.587Z info: Products:
+2024-07-11T01:10:48.823Z info: Продукты успешно созданы в Ozon:
+2024-07-11T01:15:30.705Z info: Received query:  LD13905-10, productCount: 1
+2024-07-11T01:15:30.830Z info: Parsed XML for Delivery Details:
+2024-07-11T01:15:31.933Z info: Parsed XML for GetSearch:
+2024-07-11T01:15:31.934Z info: Parts List:
+2024-07-11T01:15:31.934Z info: Products:
+2024-07-11T01:15:32.151Z info: Продукты успешно созданы в Ozon:
+2024-07-11T02:56:39.378Z info: Received query:  LD13905-10, productCount: 1, subcategory: , limit: 1
+2024-07-11T02:56:39.599Z info: Parsed XML for Delivery Details:
+2024-07-11T02:56:41.370Z info: Parsed XML for GetSearch:
+2024-07-11T02:56:41.372Z info: Parts List:
+2024-07-11T02:56:41.372Z info: Products:
+2024-07-11T02:56:41.643Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:08:25.509Z info: Received query:  LD13905-10, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:08:25.636Z info: Parsed XML for Delivery Details:
+2024-07-11T03:08:27.244Z info: Parsed XML for GetSearch:
+2024-07-11T03:08:27.245Z info: Parts List:
+2024-07-11T03:08:27.245Z info: Products:
+2024-07-11T03:08:27.466Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:14:46.789Z info: Received query:  12276C1, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:14:46.917Z info: Parsed XML for Delivery Details:
+2024-07-11T03:14:47.648Z info: Parsed XML for GetSearch:
+2024-07-11T03:14:47.648Z info: Parts List:
+2024-07-11T03:14:47.648Z info: Products:
+2024-07-11T03:14:47.864Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:19:28.310Z error: Ошибка чтения файла продуктов:
+2024-07-11T03:19:28.317Z error: Ошибка чтения файла продуктов:
+2024-07-11T03:19:32.027Z info: Received query:  LD13905-10, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:19:32.149Z info: Parsed XML for Delivery Details:
+2024-07-11T03:19:33.636Z info: Parsed XML for GetSearch:
+2024-07-11T03:19:33.638Z info: Parts List:
+2024-07-11T03:19:33.638Z info: Products:
+2024-07-11T03:19:33.870Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:19:33.870Z error: Ошибка чтения файла продуктов:
+2024-07-11T03:19:54.201Z info: Received query:  LD13905-10, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:19:54.319Z info: Parsed XML for Delivery Details:
+2024-07-11T03:19:55.453Z info: Parsed XML for GetSearch:
+2024-07-11T03:19:55.454Z info: Parts List:
+2024-07-11T03:19:55.455Z info: Products:
+2024-07-11T03:19:55.637Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:36:43.436Z info: Received query:  LD13905-10, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:36:43.565Z info: Parsed XML for Delivery Details:
+2024-07-11T03:36:44.780Z info: Parsed XML for GetSearch:
+2024-07-11T03:36:44.781Z info: Parts List:
+2024-07-11T03:36:44.781Z info: Products:
+2024-07-11T03:36:45.011Z info: Продукты успешно созданы в Ozon:
+2024-07-11T03:51:39.669Z info: Received query:  P7350W, productCount: 1, subcategory: , limit: 1
+2024-07-11T03:51:39.790Z info: Parsed XML for Delivery Details:
+2024-07-11T03:51:40.132Z info: Parsed XML for GetSearch:
+2024-07-11T03:51:40.133Z info: Parts List:
+2024-07-11T03:51:40.133Z info: Products:
+2024-07-11T03:51:40.371Z info: Продукты успешно созданы в Ozon:
+2024-07-11T04:01:57.187Z info: Received query:  L12803, productCount: 1, subcategory: , limit: 1
+2024-07-11T04:01:57.307Z info: Parsed XML for Delivery Details:
+2024-07-11T04:01:58.326Z info: Parsed XML for GetSearch:
+2024-07-11T04:01:58.327Z info: Parts List:
+2024-07-11T04:01:58.327Z info: Products:
+2024-07-11T04:01:58.545Z info: Продукты успешно созданы в Ozon:
+2024-07-11T04:06:00.098Z info: Received query:  P7350W, productCount: 1, subcategory: , limit: 1
+2024-07-11T04:06:00.220Z info: Parsed XML for Delivery Details:
+2024-07-11T04:06:00.581Z info: Parsed XML for GetSearch:
+2024-07-11T04:06:00.582Z info: Parts List:
+2024-07-11T04:06:00.582Z info: Products:
+2024-07-11T04:06:00.872Z info: Продукты успешно созданы в Ozon:
+2024-07-11T04:06:22.049Z info: Received query:  P7350W, productCount: 1, subcategory: , limit: 1
+2024-07-11T04:06:22.170Z info: Parsed XML for Delivery Details:
+2024-07-11T04:06:22.422Z info: Parsed XML for GetSearch:
+2024-07-11T04:06:22.422Z info: Parts List:
+2024-07-11T04:06:22.423Z info: Products:
+2024-07-11T04:06:22.609Z info: Продукты успешно созданы в Ozon:
+2024-07-11T04:09:06.615Z info: Received query:  P7350W, productCount: 1, subcategory: , limit: 1
+2024-07-11T04:09:06.843Z info: Parsed XML for Delivery Details:
+2024-07-11T04:09:08.457Z info: Parsed XML for GetSearch:
+2024-07-11T04:09:08.457Z info: Parts List:
+2024-07-11T04:09:08.457Z info: Products:
+2024-07-11T04:09:08.458Z info: Sending data to Ozon: {
+  "items": [
+    {
+      "attributes": [
+        {
+          "attribute_complex_id": 0,
+          "id": 85,
+          "values": [
+            {
+              "value": "KOITO"
+            }
+          ]
+        },
+        {
+          "attribute_complex_id": 0,
+          "id": 7236,
+          "values": [
+            {
+              "value": "P7350W"
+            }
+          ]
+        },
+        {
+          "attribute_complex_id": 0,
+          "id": 8229,
+          "values": [
+            {
+              "value": "Лампа автомобильная",
+              "dictionary_id": 1960
+            }
+          ]
+        },
+        {
+          "attribute_complex_id": 0,
+          "id": 9024,
+          "values": [
+            {
+              "value": "P7350W"
+            }
+          ]
+        },
+        {
+          "attribute_complex_id": 0,
+          "id": 9048,
+          "values": [
+            {
+              "value": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)"
+            }
+          ]
+        }
+      ],
+      "barcode": "112772873170",
+      "description_category_id": 17028756,
+      "color_image": "",
+      "complex_attributes": [],
+      "currency_code": "RUB",
+      "depth": 10,
+      "dimension_unit": "mm",
+      "height": 250,
+      "images": [],
+      "images360": [],
+      "name": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)",
+      "offer_id": "NSII0007154669",
+      "old_price": "1100",
+      "price": "559.44",
+      "primary_image": "",
+      "vat": "0.1",
+      "weight": 100,
+      "weight_unit": "g",
+      "width": 150
+    }
+  ]
+}
+2024-07-11T04:09:08.690Z info: Продукты успешно созданы в Ozon:
+2024-07-11T04:09:08.690Z info: Data successfully sent to Ozon

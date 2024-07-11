@@ -1,0 +1,351 @@
+[
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "KOITO"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)",
+    "offer_id": "NSII0007154669",
+    "old_price": "1100",
+    "price": "559.44",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "Monroe"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "L12803"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "L12803"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "Сайлентблок рычага подвески"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "Сайлентблок рычага подвески",
+    "offer_id": "NSII0007514314",
+    "old_price": "1100",
+    "price": "4838.06",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150,
+    "isDuplicate": true
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "KOITO"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)",
+    "offer_id": "NSII0007154669",
+    "old_price": "1100",
+    "price": "559.44",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150,
+    "isDuplicate": true
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "KOITO"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)",
+    "offer_id": "NSII0007154669",
+    "old_price": "1100",
+    "price": "559.44",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150,
+    "isDuplicate": true
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "KOITO"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "P7350W"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "Колпачки для ламп цветные T3 (ярко-белый/Whitebeam) (50шт)",
+    "offer_id": "NSII0007154669",
+    "old_price": "1100",
+    "price": "559.44",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150,
+    "isDuplicate": true
+  }
+]
