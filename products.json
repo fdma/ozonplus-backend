@@ -347,5 +347,1049 @@
     "weight_unit": "g",
     "width": 150,
     "isDuplicate": true
+  },
+  {
+    "name": "3.5RL 95-04",
+    "manufacturer": "ACURA",
+    "brand": "LYNXAuto",
+    "price": "1000",
+    "article": "BC-2044"
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "BC-2044"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "BC-2044"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "3.5RL 95-04"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "3.5RL 95-04",
+    "offer_id": "BC-2044_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LA-422"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 5076,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LA-422"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "5 (F10) 09-16"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "5 (F10) 09-16",
+    "offer_id": "LA-422_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LA-437"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LA-437"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "5 (F10) 09-16"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 5 (F10) 09-16",
+    "offer_id": "LA-437_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LAC-1919"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LAC-1919"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "5 (F10) 09-16"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 5 (F10) 09-16",
+    "offer_id": "LAC-1919_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_1",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_2",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_3",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_4",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E81) 06-12"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E81) 06-12",
+    "offer_id": "LF-321_5",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E87) 04-11"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E87) 04-11",
+    "offer_id": "LF-321_6",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E87) 04-11"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E87) 04-11",
+    "offer_id": "LF-321_7",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E87) 04-11"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E87) 04-11",
+    "offer_id": "LF-321_8",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LF-321"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (E87) 04-11"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [],
+    "images360": [],
+    "name": "BMW 1 (E87) 04-11",
+    "offer_id": "LF-321_9",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
+  },
+  {
+    "attributes": [
+      {
+        "attribute_complex_id": 0,
+        "id": 85,
+        "values": [
+          {
+            "value": "LYNXAuto"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 7236,
+        "values": [
+          {
+            "value": "LO-191"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 8229,
+        "values": [
+          {
+            "value": "Лампа автомобильная",
+            "dictionary_id": 1960
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9024,
+        "values": [
+          {
+            "value": "LO-191"
+          }
+        ]
+      },
+      {
+        "attribute_complex_id": 0,
+        "id": 9048,
+        "values": [
+          {
+            "value": "1 (F20) 11-19"
+          }
+        ]
+      }
+    ],
+    "barcode": "112772873170",
+    "description_category_id": 17028756,
+    "color_image": "",
+    "complex_attributes": [],
+    "currency_code": "RUB",
+    "depth": 10,
+    "dimension_unit": "mm",
+    "height": 250,
+    "images": [
+      "https://lynxauto.info/image/LO-191.jpg"
+    ],
+    "images360": [],
+    "name": "BMW 1 (F20) 11-19",
+    "offer_id": "LO-191_0",
+    "old_price": "1100",
+    "price": "1000",
+    "primary_image": "https://lynxauto.info/image/LO-191.jpg",
+    "vat": "0.1",
+    "weight": 100,
+    "weight_unit": "g",
+    "width": 150
   }
 ]
