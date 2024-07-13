@@ -28,8 +28,9 @@ async function parseApplicability(url) {
                 const powerEngines = Array.from(document.querySelectorAll('.la_power_engine')).map(el => el.textContent.trim());
                 const modelYears = Array.from(document.querySelectorAll('.la_model_year')).map(el => el.textContent.trim());
                 const article = document.querySelector('.pcard-model').textContent.trim();
+                const pcardName = document.querySelector('.pcard-name').textContent.trim(); // Добавляем эту строку
 
-                return { models, engines, powerEngines, modelYears, article };
+                return { models, engines, powerEngines, modelYears, article, pcardName }; // Добавляем pcardName в объект
             });
 
             applicabilityData.push({
@@ -48,6 +49,6 @@ async function parseApplicability(url) {
     } finally {
         await browser.close();
     }
-}   
+}
 
 module.exports = { parseApplicability };
